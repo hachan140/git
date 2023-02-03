@@ -1,0 +1,3 @@
+hii there
+git init
+git status
