@@ -7,3 +7,4 @@ git commit -m"add"		: repo
 remote:
 git remote add origin https://github.com/hachan140/git.git
 git push -u origin main
+hiiii r u tired now? heyyy try try try stay out of 
